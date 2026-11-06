@@ -1,0 +1,38 @@
+# Du lieu khuon mat va tep tai len (chi giu .gitkeep)
+/dataset/**
+!/dataset/.gitkeep
+/uploads/**
+!/uploads/.gitkeep
+/upload/**
+!/upload/.gitkeep
+
+# Moi truong ao Python
+/.venv/
+/venv/
+/env/
+
+# Bo nho dem Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Cau hinh va lich su chinh sua cuc bo
+/.vscode/
+/.idea/
+/.history/
+
+# Bien moi truong va thong tin bi mat
+.env
+.env.*
+!.env.example
+
+# Tep log va tep tam
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Tep he thong
+.DS_Store
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,87 @@
+[
+    {
+        "ma_hoc_sinh": "HS002",
+        "ho_ten": "Quang Diệu",
+        "to_chuc_vu": "khầy tộc",
+        "anh_mau": "dataset\/HS002.jpg",
+        "tao_luc": "2026-05-25 05:07:57",
+        "cap_nhat_luc": "2026-05-25 05:07:57"
+    },
+    {
+        "ma_hoc_sinh": "HS003",
+        "ho_ten": "Mùa Blong",
+        "to_chuc_vu": "Tổ 2\/lớp phó",
+        "anh_mau": "dataset\/HS003.jpg",
+        "tao_luc": "2026-05-25 22:40:41",
+        "cap_nhat_luc": "2026-05-25 22:40:41"
+    },
+    {
+        "ma_hoc_sinh": "HS004",
+        "ho_ten": "Hoàng Lan",
+        "to_chuc_vu": "Tổ 2\/Thành viên",
+        "anh_mau": "dataset\/HS004.jpg",
+        "tao_luc": "2026-05-25 22:42:19",
+        "cap_nhat_luc": "2026-05-25 22:42:19"
+    },
+    {
+        "ma_hoc_sinh": "HS001",
+        "ho_ten": "Nguyễn Tiến",
+        "to_chuc_vu": "Tổ 2\/Phó Bí thư",
+        "anh_mau": "dataset\/HS001_5.jpg",
+        "tao_luc": "2026-05-25 23:43:03",
+        "cap_nhat_luc": "2026-05-26 00:36:02",
+        "so_anh_mau": 10
+    },
+    {
+        "ma_hoc_sinh": "HS005",
+        "ho_ten": "VI Công Nguyên",
+        "to_chuc_vu": "Tổ 3\/Thành viên",
+        "anh_mau": "dataset\/HS005.jpg",
+        "tao_luc": "2026-05-25 23:48:16",
+        "cap_nhat_luc": "2026-05-25 23:48:16"
+    },
+    {
+        "ma_hoc_sinh": "HS006",
+        "ho_ten": "Minh Trí",
+        "to_chuc_vu": "Ngoại lệ",
+        "anh_mau": "dataset\/HS006.jpg",
+        "tao_luc": "2026-05-26 00:06:41",
+        "cap_nhat_luc": "2026-05-26 00:07:56"
+    },
+    {
+        "ma_hoc_sinh": "HS007",
+        "ho_ten": "Kim Oanhh",
+        "to_chuc_vu": "Tổ 1\/Thành viên",
+        "anh_mau": "dataset\/HS007_1.jpg",
+        "so_anh_mau": 1,
+        "tao_luc": "2026-05-26 15:41:08",
+        "cap_nhat_luc": "2026-05-26 15:41:08"
+    },
+    {
+        "ma_hoc_sinh": "HS008",
+        "ho_ten": "Phạm Nguyễn Phúc Hào",
+        "to_chuc_vu": "Tổ 3\/Thành viên",
+        "anh_mau": "dataset\/HS008_1.jpg",
+        "so_anh_mau": 1,
+        "tao_luc": "2026-05-26 15:42:32",
+        "cap_nhat_luc": "2026-05-26 15:42:32"
+    },
+    {
+        "ma_hoc_sinh": "HS009",
+        "ho_ten": "Đỗ Thị Hồng Điệp",
+        "to_chuc_vu": "Tổ 3",
+        "anh_mau": "dataset\/HS009.jpg",
+        "so_anh_mau": 8,
+        "tao_luc": "2026-05-26 23:29:03",
+        "cap_nhat_luc": "2026-05-26 23:49:32"
+    },
+    {
+        "ma_hoc_sinh": "HS010",
+        "ho_ten": "Lê Xuân Hoàng",
+        "to_chuc_vu": "Tổ 4\/ Thành Viên",
+        "anh_mau": "dataset\/HS010_8.jpg",
+        "so_anh_mau": 9,
+        "tao_luc": "2026-06-07 07:47:41",
+        "cap_nhat_luc": "2026-06-07 07:47:41"
+    }
+]

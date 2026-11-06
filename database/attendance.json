@@ -1,0 +1,112 @@
+[
+    {
+        "ma_hoc_sinh": "HS001",
+        "ho_ten": "Nguyễn Tiến",
+        "to_chuc_vu": "Tổ 2",
+        "ngay_di_hoc": "2026-05-25",
+        "gio_den_lop": "23:44:04",
+        "gio_ra_ve": "23:44:59",
+        "trang_thai": "CHECK-OUT",
+        "cap_nhat_luc": "2026-05-25 23:44:59"
+    },
+    {
+        "ma_hoc_sinh": "HS003",
+        "ho_ten": "Mùa Blong",
+        "to_chuc_vu": "tổ 2",
+        "ngay_di_hoc": "2026-05-25",
+        "gio_den_lop": "23:47:01",
+        "gio_ra_ve": "",
+        "trang_thai": "CHECK-IN",
+        "cap_nhat_luc": "2026-05-25 23:47:01"
+    },
+    {
+        "ma_hoc_sinh": "HS005",
+        "ho_ten": "VI Nguyên",
+        "to_chuc_vu": "tổ 3",
+        "ngay_di_hoc": "2026-05-25",
+        "gio_den_lop": "23:49:09",
+        "gio_ra_ve": "",
+        "trang_thai": "CHECK-IN",
+        "cap_nhat_luc": "2026-05-25 23:49:09"
+    },
+    {
+        "ma_hoc_sinh": "HS004",
+        "ho_ten": "Hoàng Lan",
+        "to_chuc_vu": "tổ 2",
+        "ngay_di_hoc": "2026-05-25",
+        "gio_den_lop": "23:50:44",
+        "gio_ra_ve": "",
+        "trang_thai": "CHECK-IN",
+        "cap_nhat_luc": "2026-05-25 23:50:44"
+    },
+    {
+        "ma_hoc_sinh": "HS001",
+        "ho_ten": "Nguyễn Tiến",
+        "to_chuc_vu": "Tổ 2",
+        "ngay_di_hoc": "2026-05-25",
+        "gio_den_lop": "23:52:53",
+        "gio_ra_ve": "",
+        "trang_thai": "CHECK-IN",
+        "cap_nhat_luc": "2026-05-25 23:52:53"
+    },
+    {
+        "ma_hoc_sinh": "HS001",
+        "ho_ten": "Nguyễn Tiến",
+        "to_chuc_vu": "Tổ 2",
+        "ngay_di_hoc": "2026-05-26",
+        "gio_den_lop": "00:01:39",
+        "gio_ra_ve": "",
+        "trang_thai": "CHECK-IN",
+        "cap_nhat_luc": "2026-05-26 00:01:39"
+    },
+    {
+        "ma_hoc_sinh": "HS006",
+        "ho_ten": "Minh Trí",
+        "to_chuc_vu": "Ngoại binh",
+        "ngay_di_hoc": "2026-05-26",
+        "gio_den_lop": "00:07:37",
+        "gio_ra_ve": "01:29:19",
+        "trang_thai": "CHECK-OUT",
+        "cap_nhat_luc": "2026-05-26 01:29:19"
+    },
+    {
+        "ma_hoc_sinh": "HS001",
+        "ho_ten": "Nguyễn Tiến",
+        "to_chuc_vu": "Tổ 2\/Bí thư",
+        "ngay_di_hoc": "2026-05-27",
+        "gio_den_lop": "00:59:31",
+        "gio_ra_ve": "01:02:17",
+        "trang_thai": "CHECK-OUT",
+        "cap_nhat_luc": "2026-05-27 01:02:17"
+    },
+    {
+        "ma_hoc_sinh": "HS005",
+        "ho_ten": "VI Công Nguyên",
+        "to_chuc_vu": "Tổ 3\/Thành viên",
+        "ngay_di_hoc": "2026-05-27",
+        "gio_den_lop": "01:15:55",
+        "gio_ra_ve": "",
+        "trang_thai": "CHECK-IN",
+        "cap_nhat_luc": "2026-05-27 01:15:55"
+    },
+    {
+        "ma_hoc_sinh": "HS001",
+        "ho_ten": "Nguyễn Tiến",
+        "to_chuc_vu": "Tổ 2\/Phó Bí thư",
+        "ngay_di_hoc": "2026-05-30",
+        "gio_den_lop": "18:53:06",
+        "gio_ra_ve": "18:55:17",
+        "trang_thai": "CHECK-OUT",
+        "cap_nhat_luc": "2026-05-30 18:55:17"
+    },
+    {
+        "ma_hoc_sinh": "HS010",
+        "ho_ten": "Lê Xuân Hoàng",
+        "to_chuc_vu": "Tổ 4\/ Thành Viên",
+        "ngay_di_hoc": "2026-06-07",
+        "gio_den_lop": "07:49:33",
+        "gio_ra_ve": "07:51:46",
+        "trang_thai": "CHECK-OUT",
+        "cap_nhat_luc": "2026-06-07 07:51:46"
+    }
+]
