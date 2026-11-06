@@ -30,8 +30,8 @@ face-attendance-cute/
 ## Tài khoản quản trị mẫu
 
 ```text
-Tài khoản: admin
-Mật khẩu: cnttk23
+Tài khoản: 
+Mật khẩu: 
 ```
 
 ## Cài đặt nhanh trên Windows với XAMPP
