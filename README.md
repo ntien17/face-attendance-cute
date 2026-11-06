@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐱 Hệ thống điểm danh nhận diện khuôn mặt lớp học học đường
 
 Dự án demo dùng:
@@ -96,3 +97,7 @@ http://localhost/face-attendance-cute/
 - Thư mục `database/`, `dataset/`, `uploads/` cần có quyền ghi.
 - `face_recognition` phụ thuộc `dlib`; trên Windows có thể cần Visual Studio Build Tools hoặc bản Python tương thích.
 - Dự án dùng cho demo học tập. Với môi trường thật, cần cơ chế bảo mật tốt hơn, phân quyền, mã hóa dữ liệu sinh trắc học và sự đồng ý của người được thu thập ảnh.
+=======
+# face-attendance-cute
+phần mềm điểm danh, xử lí ảnh
+>>>>>>> ddd33c1249e6c4d358d939539819151560caed3f
